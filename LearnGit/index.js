@@ -6,4 +6,4 @@ function sum(){
     return a+b
 }
 
-console.log(sum())
+console.log("Sum is:"+sum())
